@@ -14,5 +14,7 @@ Unordered list
 ### Android 
 :ru: [Как работает Android 4 части](https://habr.com/ru/company/solarsecurity/blog/334796/)
 
+:ru: [Основы безопасности операционной системы Android. 4 части](https://m.habr.com/ru/post/175517/)
+
 ### Networking 
 :ru: [TCP против UDP или будущее сетевых протоколов](https://habr.com/ru/company/oleg-bunin/blog/461829/)
