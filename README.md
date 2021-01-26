@@ -20,6 +20,9 @@ Unordered list
 
 :ru: [Применение методологии OWASP Mobile TOP 10 для тестирования Android приложений](https://habr.com/ru/post/352252/)
 
+### Libraries
+:uk: [Media streaming with ExoPlayer](https://developer.android.com/codelabs/exoplayer-intro#0)
+
 ## Kotlin
 :ru: [Kotlin, компиляция в байткод и производительность](https://habr.com/ru/company/inforion/blog/330060/)
 
