@@ -15,7 +15,9 @@ Unordered list
 ### Android 
 :ru: [Как работает Android 4 части](https://habr.com/ru/company/solarsecurity/blog/334796/)
 
+### Security
 :ru: [Основы безопасности операционной системы Android. 4 части](https://m.habr.com/ru/post/175517/)
+:ru: [Применение методологии OWASP Mobile TOP 10 для тестирования Android приложений](https://habr.com/ru/post/352252/)
 
 ### Kotlin
 :ru: [Kotlin, компиляция в байткод и производительность](https://habr.com/ru/company/inforion/blog/330060/)
