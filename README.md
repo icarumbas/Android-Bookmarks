@@ -25,6 +25,7 @@ Unordered list
 
 ### Dagger
 :uk: [Dagger multibinding — Sets and Maps](https://medium.com/@hamidgh/dagger-multibinding-sets-and-maps-713254b7f734#.8cmale9uw)
+
 :uk: [ViewHolder and Dagger 2 with Multibinding and AutoFactory example](http://frogermcs.github.io/inject-everything-viewholder-and-dagger-2-example/)
 
 ## Kotlin
