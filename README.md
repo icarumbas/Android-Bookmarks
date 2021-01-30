@@ -23,6 +23,9 @@ Unordered list
 ### Libraries
 :uk: [Media streaming with ExoPlayer](https://developer.android.com/codelabs/exoplayer-intro#0)
 
+### Dagger
+:uk: [Dagger multibinding — Sets and Maps](https://medium.com/@hamidgh/dagger-multibinding-sets-and-maps-713254b7f734#.8cmale9uw)
+
 ## Kotlin
 :ru: [Kotlin, компиляция в байткод и производительность](https://habr.com/ru/company/inforion/blog/330060/)
 
