@@ -14,6 +14,7 @@ Unordered list
 
 ### Low Level
 :ru: [Как работает Android 4 части](https://habr.com/ru/company/solarsecurity/blog/334796/)
+
 :uk: [Things That Cannot Change](https://android-developers.googleblog.com/2011/06/things-that-cannot-change.html)
 
 ### Security
