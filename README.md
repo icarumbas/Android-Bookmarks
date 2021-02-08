@@ -1,7 +1,5 @@
 # Bookmarks
-Unordered list 
-
-// TODO("Refactor hierarchy")
+Папки с закладками в браузере стали переполнены
 
 ## Android Studio 
 
