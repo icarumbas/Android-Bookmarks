@@ -12,6 +12,11 @@ Unordered list
 
 ## Android 
 
+### Core
+:ru: [Препарирование RecyclerView](https://ziginsider.github.io/RecyclerView/)
+
+:ru: [Различные типы Item View в RecyclerView](https://ziginsider.github.io/Multiple_Row_Types_In_Recyclerview/)
+
 ### Low Level
 :ru: [Как работает Android 4 части](https://habr.com/ru/company/solarsecurity/blog/334796/)
 
